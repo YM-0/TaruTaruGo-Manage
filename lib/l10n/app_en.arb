@@ -1,0 +1,19 @@
+{
+  "@@locale":"en",
+  "title":"TaruTaruGO\nManage",
+  "login": "Login",
+  "id": "StoreID",
+  "password": "Password",
+   "login_success": "login success",
+  "login_error": "login error",
+
+  "manage": "Magage",
+  "crowding_situation": "crowding situation",
+  "vacant": "vacant",
+  "usually": "usually",
+  "slightly_crowded": "slightly crowded",
+  "crowded": "crowded",
+  "full": "full",
+  "shop_image": "shop image",
+  "image_select": "select image"
+}

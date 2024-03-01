@@ -1,0 +1,19 @@
+{
+  "@@locale":"ja",
+  "title":"TaruTaruGO\nManage",
+  "login": "ログイン",
+  "id": "店ID",
+  "password": "パスワード",
+  "login_success": "ログイン成功",
+  "login_error": "ログインに失敗しました",
+
+  "manage": "Magage",
+  "crowding_situation": "混雑状況",
+  "vacant": "空",
+  "usually": "普通",
+  "slightly_crowded": "やや混雑",
+  "crowded": "混雑",
+  "full": "満員",
+  "shop_image": "紹介画像",
+  "image_select": "タップして画像を選択"
+}
