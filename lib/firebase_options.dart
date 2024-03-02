@@ -44,42 +44,42 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCotJNMNmuX5Pr2FsjSYyoDfxDzL7c9fBs',
-    appId: '1:154493590022:web:bb2fe000bb1b65ffbb0187',
-    messagingSenderId: '154493590022',
-    projectId: 'tarutaru-walk',
-    authDomain: 'tarutaru-walk.firebaseapp.com',
-    databaseURL: 'https://tarutaru-walk-default-rtdb.firebaseio.com',
-    storageBucket: 'tarutaru-walk.appspot.com',
-    measurementId: 'G-WQZL65KJ8X',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    databaseURL: '',
+    storageBucket: '',
+    measurementId: '',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyB0QlkXU4DalFoi71pNh_roepuSUCiNYA4',
-    appId: '1:154493590022:android:94e5f59d50661cffbb0187',
-    messagingSenderId: '154493590022',
-    projectId: 'tarutaru-walk',
-    databaseURL: 'https://tarutaru-walk-default-rtdb.firebaseio.com',
-    storageBucket: 'tarutaru-walk.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    databaseURL: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBJECM1SZTLgGveRoSHzHRJnCfAGue4mLI',
-    appId: '1:154493590022:ios:0ea8a10df77f0b07bb0187',
-    messagingSenderId: '154493590022',
-    projectId: 'tarutaru-walk',
-    databaseURL: 'https://tarutaru-walk-default-rtdb.firebaseio.com',
-    storageBucket: 'tarutaru-walk.appspot.com',
-    iosBundleId: 'com.example.beaconApp',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    databaseURL: '',
+    storageBucket: '',
+    iosBundleId: '',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBJECM1SZTLgGveRoSHzHRJnCfAGue4mLI',
-    appId: '1:154493590022:ios:bd07e63d7c87ae15bb0187',
-    messagingSenderId: '154493590022',
-    projectId: 'tarutaru-walk',
-    databaseURL: 'https://tarutaru-walk-default-rtdb.firebaseio.com',
-    storageBucket: 'tarutaru-walk.appspot.com',
-    iosBundleId: 'com.example.beaconApp.RunnerTests',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    databaseURL: '',
+    storageBucket: '',
+    iosBundleId: '',
   );
 }
